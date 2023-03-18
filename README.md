@@ -1,6 +1,9 @@
-Bankly App
+<h1> Bankly App </h1>
 
-Project for SiteGalleria Team
+<h2>Project for SiteGalleria Team<br>
+ Bengaluru,Kerala</h2>
+ 
+ <h3> UI of the app</h3>
 
 ![image](https://user-images.githubusercontent.com/98759564/226107803-f30830f9-dd95-4baf-b132-125a5b749ac7.png)
 ![image](https://user-images.githubusercontent.com/98759564/226107843-322279fe-0492-4c96-83cc-c659f44d3c4d.png)
