@@ -1,7 +1,7 @@
 <h1> Bankly App </h1>
 
 <h2>Project for SiteGalleria Team<br>
- Bengaluru,Kerala</h2>
+ Bengaluru,India</h2>
  
  <h3> UI of the app</h3>
 
