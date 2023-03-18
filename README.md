@@ -1,16 +1,8 @@
-# test
+Bankly App
 
-A new Flutter project.
+Project for SiteGalleria Team
+![image](https://user-images.githubusercontent.com/98759564/226107803-f30830f9-dd95-4baf-b132-125a5b749ac7.png)
+![image](https://user-images.githubusercontent.com/98759564/226107843-322279fe-0492-4c96-83cc-c659f44d3c4d.png)
+![image](https://user-images.githubusercontent.com/98759564/226107861-766576c6-adf3-4724-9801-12f1d428fabe.png)
+![image](https://user-images.githubusercontent.com/98759564/226107878-30563e60-a44c-463c-8854-84aff8e2b39b.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
